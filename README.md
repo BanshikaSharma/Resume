@@ -58,9 +58,8 @@ npm run start
 - **Clerk**: A **user authentication and management library**
 - **Gemini API**: An **AI-powered text generation API**
 
-## Screenshots
-![dashboard](https://github.com/user-attachments/assets/760c55e7-0612-44c4-9f10-6357944ed501)
-![ai_generated_summery](https://github.com/user-attachments/assets/a4934433-81b2-45b0-864f-cf9bad95a451)
+
+
 
 
 
